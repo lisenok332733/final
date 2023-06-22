@@ -1,0 +1,84 @@
+body{
+	background-color: lightsalmon;
+}
+header{
+background: 	#CD5C5C;
+font-family: 'Amatic SC', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Rubik Iso', cursive;
+font-family: 'Shantell Sans', cursive;
+font-size: 40px;
+}
+
+#menu{
+	width: 20%;
+	background-color: 	#CD5C5C;
+	height: 800px;
+	float: left;
+}
+.h21{
+	font-family: 'Amatic SC', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Rubik Iso', cursive;
+font-family: 'Shantell Sans', cursive;
+font-size: 30px;
+}
+.h31{
+	border-block: dashed darkgreen;writing-mode: horizontally-rl;
+}
+nav ul {
+  background-color:	#CD5C5C;
+	}	
+nav ul li {
+	display: inline-block;
+	}
+nav a {
+	display: block;
+	padding: 0 10px;
+	color: white;
+	font-size: 16px;
+	line-height: 40px;
+	text-decoration: none;
+}
+nav a:hover { 
+  background-color: grey;
+}
+#content{
+	width: 100%;
+	background-color: 	#CD5C5C;
+	height: 1000px;
+	float: right;
+	}
+.img1
+ {
+		float: left;
+  		width: 20%;
+		border: 2px solid	#CD5C5C;
+		padding: 15px; 
+		background: #666; 
+		margin-right: 10px; 
+		margin-bottom: 10px; 
+    }
+p{
+	font-family: system-ui;
+	font-size: 20px;
+}
+.h2{
+	font-family: system-ui;
+	font-size: 30px;
+}
+
+}
+.button{
+	color: green;
+}
